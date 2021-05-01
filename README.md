@@ -8,9 +8,10 @@ This is a working repository with things updating frequently. The nature of the 
 > 
 > To use pip, run : pip install -r requirements.txt
 > 
-> To use conda, run : conda env create -f environment.yml
->     
->                     conda activate ebcg
+> To use conda, run :
+>> conda env create -f environment.yml
+>> 
+>> conda activate ebcg
 ## Data Collection
 
 > To view the data collection phase, look at **extract.ipnyb**

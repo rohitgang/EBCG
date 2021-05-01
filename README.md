@@ -2,6 +2,15 @@
 
 This is a working repository with things updating frequently. The nature of the task is experimental so there is no set structure for now. 
 
+## Dependencies
+
+> Install dependencies either using requirements.txt or environment.yml
+> 
+> To use pip, run : pip install -r requirements.txt
+> 
+> To use conda, run : conda env create -f environment.yml
+>     
+>                     conda activate ebcg
 ## Data Collection
 
 > To view the data collection phase, look at **extract.ipnyb**

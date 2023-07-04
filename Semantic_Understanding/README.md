@@ -1,0 +1,3 @@
+# Implementation of Semantic Understanding of Professional Soccer Commentaries
+
+This is an attempt to further the Event Based Commentary Generation project by implementing the Semantic Understanding of Professional Soccer Commentaries by Hannaneh Hajishirzi, Mohammad Rastegari, Ali Farhadi and Jessica K. Hodgins from Disney Research Pittsburgh and Carnegie Mellon University ([paper](https://arxiv.org/pdf/1210.4854.pdf)).
